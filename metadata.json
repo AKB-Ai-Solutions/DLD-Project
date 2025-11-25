@@ -1,0 +1,5 @@
+{
+  "name": "Digital Logic Design Flip-Flop Simulator v.1.2.1",
+  "description": "An educational and simulation-based application focused on Flip-Flops and Latches used in Digital Logic Design. The app provides an interactive interface where users can select, search, visualize, and simulate any flip-flop or latch, complete with definitions, truth tables, diagrams, K-maps, and waveforms.",
+  "requestFramePermissions": []
+}
